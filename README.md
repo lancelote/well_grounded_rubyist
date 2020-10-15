@@ -6,6 +6,7 @@ Code for "The Well-Grounded Rubyist" book by David A. Black, 3nd Edition
 
 - [ ] Ruby foundations
   - [ ] Chapter 1. Bootstrapping your Ruby literacy
+    - [Celsius/Fahrenheit Converter](src/chapter_1/celsius_fahrenheit.rb)
   - [ ] Chapter 2. Objects, methods, and local variables
   - [ ] Chapter 3. Organizing objects with classes
   - [ ] Chapter 4. Modules and program organization
