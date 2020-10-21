@@ -10,6 +10,7 @@ Code for "The Well-Grounded Rubyist" book by David A. Black, 3nd Edition
     - [Read STDIN](src/chapter_1/read_stdin.rb)
     - [Read from File](src/chapter_1/read_from_file.rb)
     - [Write to File](src/chapter_1/write_to_file.rb)
+    - [Exercise 1](src/chapter_1/exercise_1.rb)
   - [ ] Chapter 2. Objects, methods, and local variables
   - [ ] Chapter 3. Organizing objects with classes
   - [ ] Chapter 4. Modules and program organization
